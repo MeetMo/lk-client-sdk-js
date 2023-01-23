@@ -3,12 +3,14 @@
 This repository, `livekit/client-sdk-js`, is the official LiveKit client SDK for JavaScript and TypeScript. <!-- BEGIN META DESC -->LiveKit is an open-source, end-to-end stack for real-time audio/video over WebRTC. Use this SDK to add audio/video to your client app, then connect it a to self- or cloud-hosted LiveKit server.<!-- END META DESC -->
 
 <!-- BEGIN REPO NAV -->
+<table>
 <thead><tr><th colspan="2">LiveKit Repositories Map</th></tr></thead>
 <tbody>
 <tr><td><i>Core Infra</i></td><td><a href="https://github.com/livekit/livekit">livekit</a> · <a href="https://github.com/livekit/egress">egress</a> · <a href="https://github.com/livekit/livekit-cli">livekit-cli</a></td></tr><tr></tr>
 <tr><td><i>Client SDKs</i></td><td><b>JavaScript</b> · <a href="https://github.com/livekit/livekit-react">React</a> · <a href="https://github.com/livekit/client-sdk-swift">iOS</a></td></tr><tr></tr>
 <tr><td><i>Server SDKs</i></td><td><a href="https://github.com/livekit/server-sdk-js">Node.js</a> · <a href="https://github.com/livekit/server-sdk-go">Golang</a> · <a href="https://github.com/livekit/server-sdk-ruby">Ruby</a> · <a href="https://github.com/livekit/server-sdk-kotlin">Java/Kotlin</a></td></tr>
 </tbody>
+</table>
 <!-- END REPO NAV -->
 
 ## Docs
