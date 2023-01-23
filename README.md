@@ -1,11 +1,14 @@
 # JavaScript/TypeScript client SDK for LiveKit
 
-This repository, `livekit/client-sdk-js`, is the official LiveKit client SDK for JavaScript and TypeScript. <!-- BEGIN META DESC -->LiveKit is an open-source, end-to-end stack for real-time audio/video over WebRTC. Use this library to add real-time audio/video to your client app, then connect it a to self- or cloud-hosted LiveKit server.<!-- END META DESC -->
+This repository, `livekit/client-sdk-js`, is the official LiveKit client SDK for JavaScript and TypeScript. <!-- BEGIN META DESC -->LiveKit is an open-source, end-to-end stack for real-time audio/video over WebRTC. Use this SDK to add audio/video to your client app, then connect it a to self- or cloud-hosted LiveKit server.<!-- END META DESC -->
 
 <!-- BEGIN REPO NAV -->
-| LiveKit Repositories Map |
-| --- |
-| *Core Infra*: [livekit](https://github.com/livekit/livekit), [egress](https://github.com/livekit/egress), [livekit-cli](https://github.com/livekit/livekit-cli)<br/>*Client SDKs*: **JavaScript**, [React](https://github.com/livekit/livekit-react), [iOS](https://github.com/livekit/client-sdk-swift)<br/>*Server SDKs*: [Node.js](https://github.com/livekit/server-sdk-js), [Golang](https://github.com/livekit/server-sdk-go), [Ruby](https://github.com/livekit/server-sdk-ruby), [Java/Kotlin](https://github.com/livekit/server-sdk-kotlin) |
+<thead><tr><th colspan="2">LiveKit Repositories Map</th></tr></thead>
+<tbody>
+<tr><td>*Core Infra*</td><td>[livekit](https://github.com/livekit/livekit) · [egress](https://github.com/livekit/egress) · [livekit-cli](https://github.com/livekit/livekit-cli)</td></tr><tr></tr>
+<tr><td>*Client SDKs*</td><td>**JavaScript** · [React](https://github.com/livekit/livekit-react) · [iOS](https://github.com/livekit/client-sdk-swift)</td></tr><tr></tr>
+<tr><td>*Server SDKs*</td><td>[Node.js](https://github.com/livekit/server-sdk-js) · [Golang](https://github.com/livekit/server-sdk-go) · [Ruby](https://github.com/livekit/server-sdk-ruby) · [Java/Kotlin](https://github.com/livekit/server-sdk-kotlin)</td></tr>
+</tbody>
 <!-- END REPO NAV -->
 
 ## Docs
