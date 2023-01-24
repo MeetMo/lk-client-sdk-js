@@ -1,6 +1,6 @@
 # JavaScript/TypeScript client SDK for LiveKit
 
-<!-- BEGIN META DESC -->LiveKit is an open-source, end-to-end stack for real-time audio/video over WebRTC.<!-- END META DESC --><!-- BEGIN CLIENT SDK DESC --><!-- END CLIENT SDK DESC -->
+<!-- BEGIN META DESC -->LiveKit is an open-source, end-to-end stack for real-time audio/video over WebRTC.<!-- END META DESC --><!-- BEGIN CLIENT SDK DESC -->Use this SDK to connect to a self- or cloud-hosted LiveKit server and add live streams or audio/video calls to your app.<!-- END CLIENT SDK DESC -->
 
 <!-- BEGIN REPO NAV -->
 <table>
